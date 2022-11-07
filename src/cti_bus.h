@@ -1,6 +1,7 @@
 #include "systemc-ams.h"
 #include "tstep.h"
 
+// CTI = Computer Technology Integration
 #define Voltage_reference 430
 
 SCA_TDF_MODULE(cti_bus){
